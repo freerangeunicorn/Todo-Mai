@@ -17,7 +17,8 @@
 4. In the project directory, you can run: npm start 
 5. Open http://localhost:3000 to view it in the browser.
 
-## If it doesn't work try: Once the project is up and running in your local environment, run: npm i axio bootstrap
+## If it doesn't work try: 
+Once the project is up and running in your local environment, run: npm i axio bootstrap
 
 How to run the tests:
 In terminal: npm test or npm run test
