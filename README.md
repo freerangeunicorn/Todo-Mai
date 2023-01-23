@@ -12,11 +12,12 @@
 
 # How to get started:
 1. Pull the code down from this repository by clicking the CODE-button(select an option of your liking)
-2. In the project directory, you can run: npm start 
-3. Open http://localhost:3000 to view it in the browser.
+2. Check if node_modules directory exists. After a fresh clone, there will likely be no node_modules (since these are .gitignore'd)
+3. Run npm install to ensure all dependencies are downloaded
+4. In the project directory, you can run: npm start 
+5. Open http://localhost:3000 to view it in the browser.
 
-## If it doesn't work try: npm install:
-INSTALL DEPENDENCIES OR PACKAGES! Once the project is up and running in your local environment, run: npm i axio bootstrap
+## If it doesn't work try: Once the project is up and running in your local environment, run: npm i axio bootstrap
 
 How to run the tests:
 In terminal: npm test or npm run test
